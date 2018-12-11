@@ -72,7 +72,7 @@ Undergraduate Research Opportunities Program (UROP) January 19, 2016–June 30,
 Our study used a combination of both qualitative and quantitative measurements to assess the effectiveness of classroom practices in achieving academic success for undergraduate transfer students in STEM (science, technology, engineering, and mathematics) courses. Using data collected from Project SPROUT in combination with interviews conducted on transfer students in the 2015-2016 school year, we were able to identify how several classroom practices influence student achievement as well as understand students reactions to these practices.
 
 ## 2016 Project SPROUT: Investigating Learning Environments in Higher Education
-![SproutsLab](https://photos.google.com/album/AF1QipP6ocCYYxSLEuTI8xWDnEdbGyOK0TzGfgpbdDeE/photo/AF1QipOFISIdEfX3_q75Zyhmpx50vXNjdvY_cgx5fXc_)
+(https://photos.google.com/album/AF1QipP6ocCYYxSLEuTI8xWDnEdbGyOK0TzGfgpbdDeE/photo/AF1QipOFISIdEfX3_q75Zyhmpx50vXNjdvY_cgx5fXc_)
 
 #### Primary Investigators
 Mark Warschauer, University of California, Irvine, School of Education
