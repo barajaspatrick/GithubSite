@@ -4,7 +4,7 @@ title: Research
 ---
 
 ## 2017 Risky Business: The Influence of Smiling on Risk Evaluation
-
+---
 #### Research Advisors:
 Sarah Pressman, Ph.D., University of California, Irvine, School of Social Ecology
 Peter Ditto, Ph.D., University of California, Irvine, School of Social Ecology
