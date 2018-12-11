@@ -1,4 +1,5 @@
 ## 2017 Risky Business: The Influence of Smiling on Risk Evaluation
+---
 
 #### Research Advisors:
 Sarah Pressman, Ph.D., University of California, Irvine, School of Social Ecology
@@ -38,6 +39,7 @@ This project experimentally investigated the influence of smartphone presence in
 Patrick conducted experimental sessions, collected psychological and physiological data, analyzed statistical results and assisted in various domains of experimental research. He demonstrated his technical expertise by assuming the role of facial coding expert. Patrick used Noldus FaceReader software to analyze the facial expressions of participants as indicators of emotion. He went above and beyond expectations and devised a coding system to better capture accurate depictions of facial changes.
 
 ## 2017 "Experiental" Purchases and Happiness
+---
 
 #### Investigators
 Ryan Howell, San Francisco State University
@@ -51,6 +53,7 @@ This project examined the emotional correlates of various types of purchases. Pa
 Patrick developed a system to more accurately use the FaceReader software and properly analyze the results. He ran the videos through the program, cleaned the data, transformed the values, and created polished versions of the output. He was timely and dedicated in his work on this project. He demonstrated punctuality and reliability in his contributions.
 
 ## 2016 UCI Undergraduate Research Symposium
+---
 ![](https://github.com/barajaspatrick/barajaspatrick.github.io/blob/master/images/urop.jpg?raw=true)
 
 #### Student presenter
@@ -59,6 +62,7 @@ Barajas, P., Gonzalez, S., & Kaur, G. (2016, May). Transfer shock: Classroom in
 For PowerPoint of presentation click: urop-presentation.
 
 ## Instructional and Social Influences on Transfer Students in STEM
+---
 
 #### Faculty Mentors
 Mark Warschauer, University of California, Irvine, School of Education
@@ -75,6 +79,7 @@ Undergraduate Research Opportunities Program (UROP) January 19, 2016–June 30,
 Our study used a combination of both qualitative and quantitative measurements to assess the effectiveness of classroom practices in achieving academic success for undergraduate transfer students in STEM (science, technology, engineering, and mathematics) courses. Using data collected from Project SPROUT in combination with interviews conducted on transfer students in the 2015-2016 school year, we were able to identify how several classroom practices influence student achievement as well as understand students reactions to these practices.
 
 ## 2016 Project SPROUT: Investigating Learning Environments in Higher Education
+---
 ![](https://github.com/barajaspatrick/barajaspatrick.github.io/blob/master/images/projectSprouts.jpg?raw=true)
 
 #### Primary Investigators
