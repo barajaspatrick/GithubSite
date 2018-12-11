@@ -1,9 +1,8 @@
 ---
+layout: page
 title: Research
-layout: default
+permalink: /Research/
 ---
-
-
 
 ## 2017 Risky Business: The Influence of Smiling on Risk Evaluation
 ---
