@@ -1,10 +1,2 @@
 theme: jekyll-theme-cayman
 title: Patrick Barajas
-
-##### BUILD SETTINGS #####
-# incremental: true
-
-# strip all unncessary whitespace and comments
-
-compress_html:
-  blanklines: true
