@@ -23,6 +23,7 @@ Primary duties involved running participants through experimental runs followed 
 
 
 ## 2017 Smartphones as “Digital Security Blankets”
+---
 
 #### Primary Investigators 
 John Hunter, University of California, Irvine
