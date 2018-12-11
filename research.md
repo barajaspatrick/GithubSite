@@ -1,6 +1,7 @@
 ## 2017 Risky Business: The Influence of Smiling on Risk Evaluation
 
 #### Research Advisors:
+<div class="row content-row">
 Sarah Pressman, Ph.D., University of California, Irvine, School of Social Ecology
 Peter Ditto, Ph.D., University of California, Irvine, School of Social Ecology
 Marie Cross, M.A., University of California, Irvine, School of Social Ecology
