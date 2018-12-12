@@ -3,7 +3,6 @@ layout: post
 title: Tokenize Text Files
 ---
 
-
 -------------------
 ##### Useful Terms:
 
