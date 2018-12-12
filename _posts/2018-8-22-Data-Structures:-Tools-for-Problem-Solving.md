@@ -3,6 +3,7 @@ layout: post
 title: Data Structures: Tools for Problem Solving
 ---
 
+# Data Structures: Tools for Problem Solving
 ---
 For a algorithms class a classmate was working on the problem:
 
