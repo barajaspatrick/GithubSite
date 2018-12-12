@@ -161,7 +161,7 @@ sns.barplot(x=energySource["Source of Electricity"],
                y=energySource["Percentage"],
                color='b')
 ```
-![]()
+![](https://github.com/barajaspatrick/barajaspatrick.github.io/blob/master/images/postimages/pareto_1.png)
 
 
 So far so good! Now the next step is to add a line in our bar plot representing the cumulative percentage to finish up our graph.
@@ -176,4 +176,4 @@ sns.pointplot(x=energySource["Source of Electricity"],
                color='r')
 ```
 
-![png]()
+![](https://github.com/barajaspatrick/barajaspatrick.github.io/blob/master/images/postimages/pareto_2.png)
