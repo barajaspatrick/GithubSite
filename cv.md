@@ -2,7 +2,7 @@
 layout: page
 title: CV/Resume
 ---
-For PDF of resume click [here](https://github.com/barajaspatrick/barajaspatrick.github.io/blob/master/docs/Resume_12_20_18.pdf).
+For PDF of resume click [here](https://drive.google.com/file/d/16Iyfi3dvBQc3BYmM45UoLDO4LH3S9vy6/view).
 
 ## Work Experience
 ---
