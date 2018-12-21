@@ -4,6 +4,8 @@ title: Tokenize Text Files
 ---
 
 -------------------
+A quick tutorial on building a term document matrix.
+
 ##### Useful Terms:
 
 -   Natural Language Processing (NLP) - Programming computers to process

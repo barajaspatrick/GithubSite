@@ -3,9 +3,10 @@ layout : post
 title: Linear Model Optimization Algorithm
 ---
 
-Setup
-=====
+-------------------
+Algorithmically find the best linear model to fit the data.
 
+## Setup
 Our goal for this exercise is to pick the best features that predict MPG
 from the cars dataset. Our first step is to load the dataset and isolate
 the feature columns and predictor columns, and from there create a list
