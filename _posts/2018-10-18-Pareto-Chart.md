@@ -3,10 +3,10 @@ layout: post
 title: Pareto Chart
 ---
 
-------
+-------------------
 In this quick tutorial we will build a simple pareto distribution.
 
-A pareto chart is a graph that contains both a bar graph and line plot. The bars represents the percentage a element appeares in a data set, and the line plot represe the cumulative percentage of all the elements.
+A pareto chart is a graph that contains both a bar graph and line plot. The bars represents the percentage a element appeares in a data set, and the line plot represents the cumulative percentage of all the elements.
 
 For more information on the the Pareto Chart click [https://en.wikipedia.org/wiki/Pareto_chart](here)
 
